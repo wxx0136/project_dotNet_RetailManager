@@ -1,1 +1,1 @@
-# project_dotNet_RetailManager
+# RetailManager
