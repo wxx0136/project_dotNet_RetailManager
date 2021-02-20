@@ -60,7 +60,6 @@
     <Folder Include="dbo\Tables" />
     <Folder Include="dbo\Views" />
     <Folder Include="dbo\Stored Procedures" />
-    <Folder Include="PublishLocations" />
     <Folder Include="Publish Locations\" />
   </ItemGroup>
   <ItemGroup>
